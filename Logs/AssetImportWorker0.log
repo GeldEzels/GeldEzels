@@ -169,3 +169,63 @@ Received Import Request.
   path: Assets/Scenes/Main.unity
   artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/Main.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce522ba499e3f921a4a201203bf64c92') in 0.012832 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4282.437688 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79842766b460edbeab6a34051e857a80') in 0.042208 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 24.123926 seconds.
+  path: Assets/locations
+  artifactKey: Guid(40f4ef56e7313c047adf4533d22fa831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/locations using Guid(40f4ef56e7313c047adf4533d22fa831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e651616247296b0e9993411e8af58b3b') in 0.033478 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 53.085025 seconds.
+  path: Assets/locations/Background-Bedroom-SAPPS.png
+  artifactKey: Guid(6d781af2c1ed2c148813bb95010b9fee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/locations/Background-Bedroom-SAPPS.png using Guid(6d781af2c1ed2c148813bb95010b9fee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '276430b3c3d962e8aa4cb4d189983826') in 2.326809 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1134.865401 seconds.
+  path: Assets/Art
+  artifactKey: Guid(468b7d8853e8a0b46b006884755bc168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art using Guid(468b7d8853e8a0b46b006884755bc168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0a35f2f6c10563e4f77be12161a75c9') in 0.009997 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 35.117059 seconds.
+  path: Assets/Art/New Folder
+  artifactKey: Guid(3271118feda6f1b44b7c7ca84646114e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/New Folder using Guid(3271118feda6f1b44b7c7ca84646114e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cce9479f475df157da059a9adca0784e') in 0.014542 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.933361 seconds.
+  path: Assets/Art/character
+  artifactKey: Guid(3271118feda6f1b44b7c7ca84646114e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/character using Guid(3271118feda6f1b44b7c7ca84646114e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4d12a3ab6ae7426ab09d7a37cb205cd') in 0.010483 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.509160 seconds.
+  path: Assets/Art/character/New Folder
+  artifactKey: Guid(bd4a154e5e7fe064c8eb208239185aad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/character/New Folder using Guid(bd4a154e5e7fe064c8eb208239185aad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66c8b80e4e5ecf442f93869d7fcf6e39') in 0.006907 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.283293 seconds.
+  path: Assets/Art/character/New Folder 1
+  artifactKey: Guid(28899629621f6274f9507fdfe28e0d60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/character/New Folder 1 using Guid(28899629621f6274f9507fdfe28e0d60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '096807647226c674e9c27295250d4290') in 0.011836 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 49.829276 seconds.
+  path: Assets/Art/character/Katy
+  artifactKey: Guid(bd4a154e5e7fe064c8eb208239185aad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/character/Katy using Guid(bd4a154e5e7fe064c8eb208239185aad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f64baae53f79ffbfd1471c1c9d2c444') in 0.009780 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.818958 seconds.
+  path: Assets/Art/character/Boris
+  artifactKey: Guid(28899629621f6274f9507fdfe28e0d60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/character/Boris using Guid(28899629621f6274f9507fdfe28e0d60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '994fd7a43ce9706fe21a85b8ac5e6f0c') in 0.007968 seconds 
